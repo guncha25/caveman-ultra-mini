@@ -1,7 +1,4 @@
 # caveman-ultra-mini
-Mini version of ulttra caveman
-
-# caveman-ultra-mini
 
 Ultra-terse response style for coding agents. Cuts filler, preserves technical meaning, reduces tokens.
 
