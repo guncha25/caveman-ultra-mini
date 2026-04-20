@@ -34,17 +34,17 @@ AGENTS.md
 
 ### Claude Code
 ```bash
-npx skills add YOUR_USERNAME/caveman-ultra-mini --skill caveman-ultra-mini -a claude-code
+npx skills add guncha25/caveman-ultra-mini --skill caveman-ultra-mini -a claude-code
 ```
 
 ### GitHub Copilot (CLI)
 ```bash
-npx skills add YOUR_USERNAME/caveman-ultra-mini --skill caveman-ultra-mini -a github-copilot
+npx skills add guncha25/caveman-ultra-mini --skill caveman-ultra-mini -a github-copilot
 ```
 
 ### List available skills
 ```bash
-npx skills add YOUR_USERNAME/caveman-ultra-mini --list
+npx skills add guncha25/caveman-ultra-mini --list
 ```
 
 ## Usage
